@@ -1,0 +1,15 @@
+{
+  "name": "node-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file-module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Silpa Alinedi",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "loadash": "^1.0.0"
+  }
+}
